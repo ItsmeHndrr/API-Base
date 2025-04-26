@@ -1,4 +1,4 @@
-# Hiuraa-API-Base
+# API-Base
 
 **Hiuraa-API-Base** is a simple, yet powerful and highly customizable REST API foundation. Built with Express.js, it provides developers with a solid starting point to create their own API services with minimal setup and maximum flexibility.
 
