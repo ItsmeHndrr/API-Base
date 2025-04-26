@@ -20,8 +20,8 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/rynxzyy/Hiuraa-API-Base.git
-cd Hiuraa-API-Base
+git clone https://github.com/itsmehndrr/API-Base
+cd API-Base
 ```
 
 2. Install dependencies:
@@ -33,8 +33,8 @@ npm install
 ```javascript
 module.exports = {
     name: {
-        main: 'Hiuraa API Base !!',
-        copyright: 'Hiuraa API Base'
+        main: 'API Base !!',
+        copyright: 'API Base'
     },
     description: 'Integrated API solution for your modern application development needs. Fast, secure, and reliable access.',
     icon: '/image/icon.png',
@@ -42,8 +42,8 @@ module.exports = {
     info_url: 'https://whatsapp.com/channel/0029Vb9MIdiDDmFXasVPVG1t',
     links: [
         {
-            name: 'WhatsApp Information Ch.',
-            url: 'https://whatsapp.com/channel/0029Vb9MIdiDDmFXasVPVG1t'
+            name: 'WhatsApp Information.',
+            url: 'https://whatsapp.com/channel/0029Vb4CE763GJOrMtLXsb1I'
         }
     ]
 };
@@ -62,7 +62,7 @@ You can easily deploy your Hiuraa API to Vercel:
 
 1. Click the deploy button below:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frynxzyy%2FHiuraa-API-Base)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fitsmehndrr%2FAPI-Base)
 
 2. Follow the on-screen instructions
 3. Configure environment variables if needed
